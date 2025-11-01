@@ -50,7 +50,7 @@ ML (Optional)	Scikit-learn
 Deployment	Localhost / Streamlit Cloud
 🧩 Setup & Run Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/Ronitkumar143/Project-Samarth-QA.git
+git clone [https://github.com/Ronitkumar143/Project-Samarth-QA.git](https://github.com/Ronitkumar143/Project-Samarth-Intelligent-Q-A-System-for-Government-Data)
 cd Project-Samarth-QA
 
 2️⃣ Install Dependencies
